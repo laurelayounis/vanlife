@@ -2,7 +2,8 @@
 
 VanLife is a full stack app built using the MERN stack. Users can create a profile, login with authentication, browse listings for spots to rent for their camper vans & RVs as well as create sites to rent to others.
 
-![Animated overview](https://github.com/laurelayounis/techCoffeeChatMVP/blob/cf50d7afc3bc4be6efe3812d0b1b8cd61671cf2a/YES.gif)
+![Animated overview](https://github.com/laurelayounis/vanlife/blob/2cfbb6ff4785568df33fdbf84be3927aa6e372e8/Screenshot%20(134).png)
+
 
 # ✨ Features
 
